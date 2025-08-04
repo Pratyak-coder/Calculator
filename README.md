@@ -44,4 +44,4 @@ Notes
 
 The calculator processes two numbers at a time.
 Invalid operations or inputs trigger error messages, and the program continues running.
-Division by zero is handled gracefully.###
+Division by zero is handled gracefully.
